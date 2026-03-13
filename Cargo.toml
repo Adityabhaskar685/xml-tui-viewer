@@ -1,0 +1,18 @@
+[package]
+name = "xml-tui-viewer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.30"
+crossterm = "0.28"
+quick-xml = "0.31"
+memmap2 = "0.9"
+anyhow = "1"
+regex = "1"
+lru = "0.12"
+rayon = "1.10"
+fuzzy-matcher = "0.3"
+crossbeam-channel = "0.5"
+parking_lot = "0.12"
+aho-corasick = "1.1"
