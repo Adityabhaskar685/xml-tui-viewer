@@ -107,6 +107,4 @@ Press `b` from the viewer at any time to return to the file browser.
 | `memmap2` | Memory-mapped file I/O |
 | `rayon` | Parallel processing |
 | `fuzzy-matcher` | Fuzzy search |
-| `crossbeam-channel` | Multi-thread messaging |
-| `parking_lot` | Fast RwLock |
 | `anyhow` | Error handling |
